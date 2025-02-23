@@ -1,0 +1,5 @@
+# Ignore Gradle cache and build directories
+.gradle/
+build/
+out/
+*.log
